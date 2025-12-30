@@ -20,7 +20,7 @@
 ## 🚀 快速开始
 
 ### 在线体验
-访问 GitHub Pages：[在线演示](https://github.com/wallechfox/OfflineTxt2QR/OfflineTxt2QR.html)
+访问 GitHub Pages：[在线演示](https://wallechfox.github.io/OfflineTxt2QR/OfflineTxt2QR.html)
 
 ### 本地部署
 1. **克隆仓库**
